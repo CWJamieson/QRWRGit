@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR Scan and Gen</string>
+    <string name="title_activity_gen_screen">GenScreen</string>
+    <string name="qr_des">The requested String</string>
+</resources>
